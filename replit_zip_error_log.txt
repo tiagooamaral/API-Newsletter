@@ -1,0 +1,8 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-05-25T04:55:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/carbon","time":"2024-05-25T04:55:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/patch-type-declarations","time":"2024-05-25T04:55:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/php-parse","time":"2024-05-25T04:55:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/phpunit","time":"2024-05-25T04:55:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/psysh","time":"2024-05-25T04:55:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/sail","time":"2024-05-25T04:55:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/var-dump-server","time":"2024-05-25T04:55:24Z"}
